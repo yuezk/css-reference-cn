@@ -26,7 +26,7 @@ property_name: border-top-color
           <code class="example-value" data-tooltip="Click to copy" data-clipboard-text="border-top-color: transparent;">border-top-color: transparent;</code>
         </p>
         <div class="example-description">
-          <p>如果给上边框设置了一个 <strong>transparent</strong> 颜色，左边框仍然会占用 <code>border-width</code> 定义的<em>空间</em>大小。</p>
+          <p>如果给上边框设置了一个 <strong>transparent</strong> 颜色，上边框仍然会占用 <code>border-width</code> 定义的<em>空间</em>大小。</p>
 
         </div>
       </header>
