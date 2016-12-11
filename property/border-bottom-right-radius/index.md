@@ -70,7 +70,7 @@ property_name: border-bottom-right-radius
           <code class="example-value" data-tooltip="Click to copy" data-clipboard-text="border-bottom-right-radius: 50%;">border-bottom-right-radius: 50%;</code>
         </p>
         <div class="example-description">
-          <p>也可以使用<strong>百分比</strong> 值。在这个例子中，圆角从<em>下</em>边框的中间开始，到<em>右</em>边框的中间结束。</p>
+          <p>也可以使用<strong>百分比</strong>值。在这个例子中，圆角从<em>下</em>边框的中间开始，到<em>右</em>边框的中间结束。</p>
 
         </div>
       </header>
