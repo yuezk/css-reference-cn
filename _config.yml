@@ -1,8 +1,7 @@
 title: CSS 参考手册
 description: 免费的 CSS 常见属性视觉指南
 share: "CSS Reference: 免费的 CSS 常见属性视觉指南。"
-url: https://css.happycoder.net
-enforce_ssl: css.happycoder.net
+url: yuezk.github.io/css-reference-cn
 markdown: kramdown
 permalink: pretty
 exclude: ['node_modules']
